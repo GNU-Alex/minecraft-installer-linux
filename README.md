@@ -8,7 +8,7 @@ Before running this script, ensure you have the following:
 
 - `wget`: to download the launcher file.
 - `tar`: to extract the downloaded file.
-- Root or sudo access: to move files into system directories.
+- No root or sudo access is required, as the installation is done in your home directory.
 
 ## Installation
 
@@ -22,14 +22,11 @@ Before running this script, ensure you have the following:
    ```
 
 ## Enjoy
-
-Now you can launch the game and enjoy it.
+After running the script, you should find Minecraft in your application menu.
 
 ## License
 
 This script is provided as-is, without any warranty. Use it at your own risk.
-
-This version includes clear instructions for downloading the PNG icon file, ensuring that users have everything they need to successfully install the Minecraft launcher. Feel free to adjust any part of the text as necessary!
 
 
 ## Notes
