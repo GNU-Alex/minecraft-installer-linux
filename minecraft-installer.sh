@@ -45,6 +45,9 @@ EOF
 
 echo ".desktop file created at $desktop_file"
 
+# Make the .desktop file executable
+chmod +x "$desktop_file"
+
 # Removing .tar.gz archive
 echo "Removing $filename"
 rm $filename
