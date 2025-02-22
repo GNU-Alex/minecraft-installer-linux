@@ -8,17 +8,14 @@ Before running this script, ensure you have the following:
 
 - `wget`: to download the launcher file.
 - `tar`: to extract the downloaded file.
+- `curl`: to run the script on your PC
 - No root or sudo access is required, as the installation is done in your home directory.
 
 ## Installation
 
-1. **Download the script**: Download the script on your desktop for exemple.
-
-2. **Download the icon**: Download the icon at the same location as the script
-
-3. **Make the script executable**:
+1. **Run this script**:
    ```bash
-   chmod +x minecraft-installer.sh
+   curl -sSL https://raw.githubusercontent.com/GNU-Alex/minecraft-installer-linux/main/minecraft-installer.sh | sudo bash
    ```
 
 ## Enjoy
