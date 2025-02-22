@@ -12,6 +12,7 @@ mkdir -p "$install_dir"
 echo "Downloading..."
 # Getting Minecraft launcher from "Other" option on page minecraft.net/download
 wget -q --show-progress -O $filename $url
+wget https://github.com/GNU-Alex/minecraft-installer-linux/raw/main/minecraft-launcher.png
 echo "Download complete."
 
 # Decompressing minecraft.tar.gz
