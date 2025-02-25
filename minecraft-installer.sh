@@ -41,7 +41,7 @@ Exec=$install_dir/minecraft-launcher/minecraft-launcher
 Icon=$install_dir/minecraft-launcher.png
 Terminal=false
 Categories=Game;Application;
-StartupWMClass=minecraft-launcher
+StartupWMClass=Minecraft Launcher
 EOF
 
 echo ".desktop file created at $desktop_file"
