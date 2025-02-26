@@ -1,6 +1,6 @@
 #!/bin/bash
 
-filename="minecraft.tar.gz"
+filename="Minecraft.tar.gz"
 filename_icon="minecraft-launcher.png"
 url="https://launcher.mojang.com/download/Minecraft.tar.gz"
 install_dir="$HOME/.mojang"
