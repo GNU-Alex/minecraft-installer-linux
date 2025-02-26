@@ -17,7 +17,7 @@ echo "Download complete."
 
 # Decompressing minecraft.tar.gz
 echo "Decompressing $filename"
-tar -xjvf $filename
+tar -xzvf $filename
 echo "Decompressing done."
 
 # Moving archive
