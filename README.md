@@ -28,8 +28,7 @@ This script is provided as-is, without any warranty. Use it at your own risk.
 
 ## Notes
 
-1. If you have a laptop with an Nvidia GPU, you can uncomment the corresponding line in the .desktop file to launch Minecraft using your GPU.
-2. If you want to use the Minecraft icon from your icon theme, uncomment the corresponding line in the .desktop file.
+1. If the game is not using your GPU, you can right click on the icon and select `Launch using Dedicated Graphics Card`.
 
 
    
